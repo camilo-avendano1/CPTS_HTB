@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "d7814d04db92e6ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9be0717d11b3cb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f2e70734cb5e6a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Network Enumeration NMAP/5. Enumeracion de servicios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61f7dde329fcbc2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "83dd4b2e933e417c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df3d4c2008dbeb6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15aa91bd7971ed27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "208a9b553522aa1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7ec3fbab98d4287",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cd3ffdcc5657f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac4eb41d3005a38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Network Enumeration NMAP/5. Enumeracion de servicios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c325412a0db5b62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Network Enumeration NMAP/5. Enumeracion de servicios.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2aa433953f05c983",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78fe85580e45b564",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Network Enumeration NMAP/5. Enumeracion de servicios.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f2e70734cb5e6a2",
+  "lastOpenFiles": [
+    "2. Network Enumeration NMAP/4. Guardar resultados nmap.md",
+    "2. Network Enumeration NMAP/5. Enumeracion de servicios.md"
+  ]
+}
