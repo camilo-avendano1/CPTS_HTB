@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Network Enumeration NMAP/5. Enumeracion de servicios.md",
+                "file": "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Network Enumeration NMAP/5. Enumeracion de servicios.md",
+                "file": "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Network Enumeration NMAP/5. Enumeracion de servicios.md",
+                "file": "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Network Enumeration NMAP/5. Enumeracion de servicios.md"
+                "file": "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md"
               }
             }
           }
@@ -148,7 +148,13 @@
   },
   "active": "2f2e70734cb5e6a2",
   "lastOpenFiles": [
-    "2. Network Enumeration NMAP/4. Guardar resultados nmap.md",
-    "2. Network Enumeration NMAP/5. Enumeracion de servicios.md"
+    "2. Network Enumeration NMAP/7. Performance.md",
+    "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md",
+    "2. Network Enumeration NMAP/6. Nmap Scripting Engine.md",
+    "multimedia/Pasted image 20240902163220.png",
+    "2. Network Enumeration NMAP/2. Host Discovery.md",
+    "2. Network Enumeration NMAP/3. Host and Port Scanning.md",
+    "2. Network Enumeration NMAP/5. Enumeracion de servicios.md",
+    "2. Network Enumeration NMAP/4. Guardar resultados nmap.md"
   ]
 }
