@@ -9,3 +9,7 @@ este comando me sirivo para sacar la version del servidor dns alojada en el puer
 `sudo nmap -sU --open -A 10.129.1.121 -p 53 -sV  --packet-trace`
 
 ![[Pasted image 20240904211003.png]]
+
+
+escaneo profundo en smb lo que no puede traer, usuarios, sistemas operativos, incluso intenta fuerza bruta y contrasenas
+`enum4linux -a 10.129.144.116`
