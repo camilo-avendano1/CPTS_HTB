@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md",
+                "file": "2. Network Enumeration NMAP/Solucion GHard Lab IDSIPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md",
+                "file": "2. Network Enumeration NMAP/Solucion GHard Lab IDSIPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md",
+                "file": "2. Network Enumeration NMAP/Solucion GHard Lab IDSIPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md"
+                "file": "2. Network Enumeration NMAP/Solucion GHard Lab IDSIPS.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "2f2e70734cb5e6a2",
   "lastOpenFiles": [
-    "2. Network Enumeration NMAP/7. Performance.md",
+    "0. Herramientas/2. Tipos de Shells.md",
+    "0. Herramientas/1. Herramientas útiles y comunes.md",
+    "2. Network Enumeration NMAP/0. Comandos.md",
+    "Comandos especiales.md",
+    "paso a paso.md",
+    "multimedia/Pasted image 20240904215038.png",
+    "multimedia/Pasted image 20240904214800.png",
+    "multimedia/Pasted image 20240904211003.png",
+    "2. Network Enumeration NMAP/Solucion GHard Lab IDSIPS.md",
+    "0. Herramientas",
     "2. Network Enumeration NMAP/8. Firewall y evasión de IDS y IPS.md",
+    "2. Network Enumeration NMAP/7. Performance.md",
     "2. Network Enumeration NMAP/6. Nmap Scripting Engine.md",
     "multimedia/Pasted image 20240902163220.png",
     "2. Network Enumeration NMAP/2. Host Discovery.md",
