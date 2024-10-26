@@ -12,3 +12,23 @@ enumerar y tomar pantallazo a los servicios enumerados para la documentacion
 
 #root_linux
 buscar binarios para priv escalation linux find / -user root -perm /4000 2>/dev/null
+
+#permisos #privilegios
+con el siguiente comando podemos verificar que permisos tenemos como usairios en linux 
+```shell-session
+ sudo -l
+```
+
+comando para dar permisos de ejecucion a un archivo
+
+```
+chmod +x
+```
+comando para dar permisos de ssh key
+
+```
+chmod 600
+```
+
+bins para escalada de privilegios
+[GTFOBins](https://gtfobins.github.io/)
