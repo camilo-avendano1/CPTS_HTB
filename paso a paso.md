@@ -1,12 +1,21 @@
 
 
-explorar cuantas maquinas hay en el host
-
-`sudo arp-scan -i eth0 -l`
-
-tirarle el nmap magico
+* explorar cuantas maquinas hay en el host
+#escaneo_red
+```bash
+sudo arp-scan -i eth0 -l
+```
 #nmap_magico
-**nmap -p- --open -sC -sV --min-rate 5000 -vvv -n -Pn 10.10.10.10
+* tirarle el nmap magico de puertos abiertos
+```bash
+sudo nmap -p- --open -sS --min-rate 5000 -vvv -n -Pn 10.10.10.10 -oN puertos_abiertos
+```
+#nmap_magico 
+* tiramos descubrimiento de versiones y servicios en los puertos
+
+```shell
+nmap -sCV -p22,80,443 -vvv 10.10.10.10 -oN servicios_versiones
+```
 
 enumerar y tomar pantallazo a los servicios enumerados para la documentacion
 
