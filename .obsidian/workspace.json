@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9be0717d11b3cb1",
+        "id": "af891ca86fa7dd76",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2e70734cb5e6a2",
+            "id": "d22e5c8c94231642",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "multimedia/Pasted image 20241118122506.png"
+                "file": "3. Shells & Payloads/14. Poniendo a prueba las habilidades.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241118122506"
+              "icon": "lucide-file",
+              "title": "14. Poniendo a prueba las habilidades"
             }
           }
         ]
@@ -91,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multimedia/Pasted image 20241118122506.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Pasted image 20241118122506"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -110,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multimedia/Pasted image 20241118122506.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Pasted image 20241118122506"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -136,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "multimedia/Pasted image 20241118122506.png"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Esquema de Pasted image 20241118122506"
+              "title": "Esquema"
             }
           }
         ]
@@ -160,9 +158,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "df3d4c2008dbeb6c",
+  "active": "d22e5c8c94231642",
   "lastOpenFiles": [
+    "3. Shells & Payloads/13. Webshells en php.md",
+    "3. Shells & Payloads/12. antak-webshell.md",
+    "3. Shells & Payloads/11. Laudanum Una Web Shell para Gobernarlas a Todas.md",
     "3. Shells & Payloads/14. Poniendo a prueba las habilidades.md",
+    "3. Shells & Payloads/15. Detección y Prevención.md",
+    "multimedia/Pasted image 20241118122506.png",
     "multimedia/Pasted image 20241118171829.png",
     "multimedia/Pasted image 20241118171539.png",
     "multimedia/Pasted image 20241118171416.png",
@@ -172,11 +175,7 @@
     "multimedia/Pasted image 20241118170032.png",
     "multimedia/Pasted image 20241118170029.png",
     "multimedia/Pasted image 20241118165633.png",
-    "multimedia/Pasted image 20241118165421.png",
-    "3. Shells & Payloads/11. Laudanum Una Web Shell para Gobernarlas a Todas.md",
     "paso a paso.md",
-    "3. Shells & Payloads/13. Webshells en php.md",
-    "3. Shells & Payloads/12. antak-webshell.md",
     "3. Shells & Payloads/10. Introduccion a web Shells.md",
     "3. Shells & Payloads/9. Invocando Shells interactivas.md",
     "3. Shells & Payloads/8. infiltrandose en linux unix.md",
